@@ -1,6 +1,6 @@
-# BAT.py SDR Method Automation Scripts
+# BAT2.py SDR Method Automation Scripts for single node (local) machine
 
-Comprehensive automation suite for running BAT.py SDR (Simultaneous Decoupling/Recoupling) molecular dynamics simulations with intelligent GPU management.
+Tested on 8 GPU single node machines (such as ML6/ML7) at the University of UiO. Comprehensive automation suite for running BAT2.py in SDR (Simultaneous Decoupling/Recoupling) molecular dynamics simulations with intelligent GPU management.
 
 ## 📦 Package Contents
 
